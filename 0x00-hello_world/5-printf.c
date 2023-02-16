@@ -1,11 +1,11 @@
 #include <stdio.h>
-/*
- * main - Entry point
- * Description: use printf
- * Return: Always 0 (Success)
+/**
+ *main - Entry point
+ *My hello, printf task
+ *Return: return 1 after ptogram execution
  */
 int main(void)
 {
-printf("With proper grammar, but the outcome is a piece of art,\n");
-return (0);
+printf("with proper grammer, but the outcome is a pieceof art,\n");
+return(0);
 }
